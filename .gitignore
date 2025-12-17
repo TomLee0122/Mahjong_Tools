@@ -1,0 +1,8 @@
+# Python auxiliary files
+__pycache__
+
+# Jetbrains IDE files
+.idea/
+
+# VSCode auxiliary files
+.vscode/
